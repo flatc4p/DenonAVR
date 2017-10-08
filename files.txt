@@ -1,0 +1,5 @@
+C:\Users\Max\AppData\Local\Programs\Python\Python35-32\Lib\site-packages\denonavr\DenonAVR.py
+C:\Users\Max\AppData\Local\Programs\Python\Python35-32\Lib\site-packages\denonavr\__init__.py
+C:\Users\Max\AppData\Local\Programs\Python\Python35-32\Lib\site-packages\denonavr\__pycache__\DenonAVR.cpython-35.pyc
+C:\Users\Max\AppData\Local\Programs\Python\Python35-32\Lib\site-packages\denonavr\__pycache__\__init__.cpython-35.pyc
+C:\Users\Max\AppData\Local\Programs\Python\Python35-32\Lib\site-packages\denonavr-0.1dev-py3.5.egg-info
